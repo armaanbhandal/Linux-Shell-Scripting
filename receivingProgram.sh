@@ -12,7 +12,7 @@ if [ ! -f "$input_file" ]; then
     echo "File not found: $input_file"
     exit 1
 fi
-myName="Abhor Bhandy"
+myName="Armaan Bhandal"
 Today=$(date +"%d%m%y-%H:%M")
 
 # Display the file name
